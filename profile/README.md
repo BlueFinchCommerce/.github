@@ -1,0 +1,3 @@
+## Welcome! 
+
+We love Magento
